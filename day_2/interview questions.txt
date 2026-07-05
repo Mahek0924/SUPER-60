@@ -1,0 +1,12 @@
+OOP questions for interviews
+q. what is inheritance?  #code reusability
+1. what is difference between function and method?
+2. who provides memory to object?  #default constructor
+3. how your constructor knows how much memory is needed for object?  #it converts to hexcode then assigns according to how many data members are there
+4. types of constructor
+5. types of variable in class   
+    #instance variable  = always depends on 
+6. inheritance and types of inheritance
+7. abstraction
+    readable, large implementation, robust
+8. abstract class

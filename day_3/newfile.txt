@@ -1,0 +1,11 @@
+DEBUG:root:this indicates the debugging information
+INFO:root:this indicates the important information
+ERROR:root:this indicates error information
+WARNING:root:this indicates the warining information
+CRITICAL:root:this indicates the critical information
+ERROR:root:invalid literal for int() with base 10: 'a'
+Traceback (most recent call last):
+  File "C:\Users\mahek\super 60\day_3\log.py", line 15, in <module>
+    b=int(input("enter number b: "))
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'a'

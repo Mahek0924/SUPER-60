@@ -1,0 +1,25 @@
+types of error:
+
+1. run time error
+2. compile time error (syntax error)
+
+
+wrtite a program to accept three paper marks like phy, chem, math and calculate total, percentage and display total marks, percentage and condition:
+if user is passed in all subject thn print pass else print fail and passing marks is 40
+if percentage is grater that or eqaul to 65 and gender is male then print eligible for placement else not eligible for placement
+
+notes:
+#. data structures are different ways of organizing a data on a computer, that can be used effectively. 
+
+#. algorithm 1.correctness, 2. efficiency
+
+#time complexity
+1. big o
+2. big omega
+3. big theta
+
+o(1) - constant time  :  accessing specific element in array
+o(N) - Linear  :  access every element of array, loop through all elements of array
+o(log N) - logarithmic  :  it not visits on every index, it visits on each index, binary search
+o(N^2) - quadratic time  :  nexted loops
+o(2^N) - exponential  :  double recurssion in fibonnacci
